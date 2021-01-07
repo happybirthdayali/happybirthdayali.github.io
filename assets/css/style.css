@@ -90,8 +90,8 @@ table{border-collapse:collapse;border-spacing:0}
 	width: 100%;
 	text-align: center;
 	font-size: 30px;
-	font-family: "Bookman Old Style", "Times New Roman", "Times", Arial;
-	background-color: rgba(255, 242, 125, 0.4);
+	font-family: "Bitter", "Bookman Old Style", "Times New Roman", "Times", Arial;
+	background-color: rgba(255, 242, 125, 0.7);
 	padding: 25px 20px;
 	z-index: 150;
 }
@@ -132,6 +132,7 @@ table{border-collapse:collapse;border-spacing:0}
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
+	z-index: 90;
 }
 
 .block .hero-container .additional-note{
@@ -302,7 +303,7 @@ table{border-collapse:collapse;border-spacing:0}
 	top: 10%;
 	padding: 40px 20px;
 	text-align: center;
-	font-family: "Baskerville Old Face", "Times New Roman";
+	font-family: "Bitter", "Baskerville Old Face", "Times New Roman";
 	font-size: 26px;
 	background-image: url(../img/wish_frame.svg);
 	background-repeat: no-repeat;
